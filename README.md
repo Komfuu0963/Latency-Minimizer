@@ -64,3 +64,4 @@ Trust through open source code: No hidden miners, Trojans, or spyware. Just clea
 It works: Thousands of users and tests on modern systems confirm a 10-30% reduction in latency in scenarios limited by system responsiveness.
 
 Take back control of your responsiveness. Make your system faster than ever.
+DOWNLOAD: https://github.com/archerferretdj0/Latency-Minimizer/releases/tag/Latency-Minimizer
